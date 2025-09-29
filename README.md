@@ -37,7 +37,7 @@ How to Use 🚀
 
 Clone this repository:
 
-git clone https://github.com/your-username/airbnb-analysis.git
+git clone https://github.com/Nitesh-OP/VOIS_AICTE_Oct2025_Nitesh-Mhatre
 
 
 Navigate to the project folder:
